@@ -1,2 +1,2 @@
-# withdrawal-tarrif-saver
+# momo-tarrif-saver
 This app aims at providing withdrawal proposal strategies to minimize withdrawal charges
