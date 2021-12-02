@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1638423267976,
+  "index": "/momo-tarrif-saver/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/momo-tarrif-saver/favicon.ico",
+        "/momo-tarrif-saver/index.html",
+        "/momo-tarrif-saver/main.c90f054f7b8535ee71fb.js",
+        "/momo-tarrif-saver/manifest.webmanifest",
+        "/momo-tarrif-saver/polyfills.071d542b63ec02655057.js",
+        "/momo-tarrif-saver/runtime.5c33d2b23fe9dd7d1495.js",
+        "/momo-tarrif-saver/styles.31d6cfe0d16ae931b73c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/momo-tarrif-saver/assets/icons/icon-128x128.png",
+        "/momo-tarrif-saver/assets/icons/icon-144x144.png",
+        "/momo-tarrif-saver/assets/icons/icon-152x152.png",
+        "/momo-tarrif-saver/assets/icons/icon-192x192.png",
+        "/momo-tarrif-saver/assets/icons/icon-384x384.png",
+        "/momo-tarrif-saver/assets/icons/icon-512x512.png",
+        "/momo-tarrif-saver/assets/icons/icon-72x72.png",
+        "/momo-tarrif-saver/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/momo-tarrif-saver/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/momo-tarrif-saver/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/momo-tarrif-saver/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/momo-tarrif-saver/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/momo-tarrif-saver/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/momo-tarrif-saver/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/momo-tarrif-saver/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/momo-tarrif-saver/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/momo-tarrif-saver/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/momo-tarrif-saver/index.html": "90593dd6f403330043411e685d1a73f34a9ea2ec",
+    "/momo-tarrif-saver/main.c90f054f7b8535ee71fb.js": "b752a34519c3ca4d6d29376dbda84d044b69a441",
+    "/momo-tarrif-saver/manifest.webmanifest": "046b35aba58f278044b962faaacc0603e1a10800",
+    "/momo-tarrif-saver/polyfills.071d542b63ec02655057.js": "02ca6c7580c1c555073fee31d02399b9468d3dd6",
+    "/momo-tarrif-saver/runtime.5c33d2b23fe9dd7d1495.js": "65df2742023290f7475fe0ad8fd3eca341a6477d",
+    "/momo-tarrif-saver/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
